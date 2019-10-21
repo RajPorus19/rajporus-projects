@@ -1,1 +1,1 @@
-Ce repositoire à pour but d'exposer les projets que j'ai codé pour mon CV.
+This repository serves the purpose of displaying my projects for my curriculum vitae.

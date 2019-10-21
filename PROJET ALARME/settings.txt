@@ -1,0 +1,4 @@
+defaultTime=5
+defaultAlarm=alarmSound.mp3
+offday=5,6
+playerName=vlc.exe
