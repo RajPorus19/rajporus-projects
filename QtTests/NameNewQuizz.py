@@ -43,6 +43,8 @@ class Ui_Form(object):
     def getNewQuizz(self):
         fileName = (self.quizzNameLineEdit.text()+".txt").replace(" ","_")
         os.system("touch "+fileName)
+        with open("allTheQuizzes.txt", "a") as text_file:
+            text_file.write(fileName)
         sys.exit()
 
 if __name__ == "__main__":
