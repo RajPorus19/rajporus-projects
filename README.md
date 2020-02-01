@@ -1,1 +1,0 @@
-This repository serves the purpose of displaying my projects for my curriculum vitae.
